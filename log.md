@@ -6,7 +6,7 @@
 
 **Thoughts:** 
 
-**Link to work:** 
+**Link to work:** [Python Web Scraper App](https link)
 
 ### Day 2: August 11, 2018 
 
