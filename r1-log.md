@@ -1,6 +1,6 @@
-# #100DaysOfCode Log - Round 1 - [Kadyann Stupart]
+# #100DaysOfCode Log - Round 1 - Kadyann Stupart
 
-The log of my #100DaysOfCode challenge. Started on [August 10, Friday, 2018].
+The log of my #100DaysOfCode challenge. Started on August 10, Friday, 2018.
 
 ## Log
 
