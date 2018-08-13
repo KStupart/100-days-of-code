@@ -8,10 +8,10 @@
 
 **Link to work:** [Python Mathematicians Page Hits Web Scraper App](https://github.com/KStupart/Python-Web-Scraper-App)
 
-### Day 2: August 11, 2018 
+### Day 2: August 12, 2018 
 
-**Today's Progress**: 
+**Today's Progress**: Public Key Encryption App
 
-**Thoughts**: 
+**Thoughts**: Unfortunately I missed yesterday, but that's no reason to give up! I got back on my feet today and started a Public Key Encryption App. As it is, I need to finish it and then do some more debugging but I'm proud of my progress
 
-**Link(s) to work**: 
+**Link(s) to work**: [Public Key Encryption App](https://github.com/KStupart/PublicKeyEncryptor)
