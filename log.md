@@ -31,3 +31,11 @@
 **Thoughts**: I started the challenge at the usual late time today. I feel a heck of a lot more confident with ArrayLists now and I'm glad that I pushed through and started coding even though I'm tired.
 
 **Link(s) to work**: [Public Key Encryption App](https://github.com/KStupart/PublicKeyEncryptor)
+
+### Day 5: August 15, 2018 
+
+**Today's Progress**: Public Key Encryption App
+
+**Thoughts**: I am so close to finishing up this project and that really motivates me to get started on the challenge earlier! After this I might consider creating a Scrabble app to help players with word scoring!
+
+**Link(s) to work**: [Public Key Encryption App](https://github.com/KStupart/PublicKeyEncryptor)
