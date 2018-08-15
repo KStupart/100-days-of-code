@@ -23,3 +23,11 @@
 **Thoughts**: I started the challenge a lot earlier today and I'm proud of that! My Public Key App now accepts user input and I updated the project's readme file to display a screenshot of what the program can do so far.
 
 **Link(s) to work**: [Public Key Encryption App](https://github.com/KStupart/PublicKeyEncryptor)
+
+### Day 4: August 14, 2018 
+
+**Today's Progress**: Public Key Encryption App
+
+**Thoughts**: I started the challenge a at the usual late time today. I need to do more work.
+
+**Link(s) to work**: [Public Key Encryption App](https://github.com/KStupart/PublicKeyEncryptor)
