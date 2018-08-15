@@ -28,6 +28,6 @@
 
 **Today's Progress**: Public Key Encryption App
 
-**Thoughts**: I started the challenge a at the usual late time today. I need to do more work.
+**Thoughts**: I started the challenge at the usual late time today. I feel a heck of a lot more confident with ArrayLists now and I'm glad that I pushed through and started coding even though I'm tired.
 
 **Link(s) to work**: [Public Key Encryption App](https://github.com/KStupart/PublicKeyEncryptor)
