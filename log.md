@@ -14,7 +14,7 @@
 
 **Thoughts**: Unfortunately I missed yesterday, but that's no reason to give up! I got back on my feet today and started a Public Key Encryption App. As it is, I need to finish it and then do some more debugging but I'm proud of my progress
 
-**Link(s) to work**: [Public_and_Private_Key_Finder](https://github.com/KStupart/Public-And-Private-Key-Finder)
+**Link(s) to work**: [Public and Private Key Finder](https://github.com/KStupart/Public-And-Private-Key-Finder)
 
 ### Day 3: August 13, 2018 
 
@@ -22,7 +22,7 @@
 
 **Thoughts**: I started the challenge a lot earlier today and I'm proud of that! My Public Key App now accepts user input and I updated the project's readme file to display a screenshot of what the program can do so far.
 
-**Link(s) to work**: [Public_and_Private_Key_Finder](https://github.com/KStupart/Public-And-Private-Key-Finder)
+**Link(s) to work**: [Public and Private Key Finder](https://github.com/KStupart/Public-And-Private-Key-Finder)
 
 ### Day 4: August 14, 2018 
 
@@ -30,7 +30,7 @@
 
 **Thoughts**: I started the challenge at the usual late time today. I feel a heck of a lot more confident with ArrayLists now and I'm glad that I pushed through and started coding even though I'm tired.
 
-**Link(s) to work**: [Public_and_Private_Key_Finder](https://github.com/KStupart/Public-And-Private-Key-Finder)
+**Link(s) to work**: [Public and Private Key Finder](https://github.com/KStupart/Public-And-Private-Key-Finder)
 
 ### Day 5: August 15, 2018 
 
@@ -38,7 +38,7 @@
 
 **Thoughts**: I am so close to finishing up this project and that really motivates me to get started on the challenge earlier! After this I might consider creating a Scrabble app to help players with word scoring!
 
-**Link(s) to work**: [Public_and_Private_Key_Finder](https://github.com/KStupart/Public-And-Private-Key-Finder)
+**Link(s) to work**: [Public and Private Key Finder](https://github.com/KStupart/Public-And-Private-Key-Finder)
 
 ### Day 6: August 16, 2018 
 
@@ -46,4 +46,4 @@
 
 **Thoughts**: I feel really great because I got to complete my two-month-old project! Ah satisfaction never felt so good :) I think that for my next project I'll start work on a mobile app centered on scoring scrabble words!
 
-**Link(s) to work**: [Public_and_Private_Key_Finder](https://github.com/KStupart/Public-And-Private-Key-Finder)
+**Link(s) to work**: [Public and Private Key Finder](https://github.com/KStupart/Public-And-Private-Key-Finder)
