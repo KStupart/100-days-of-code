@@ -47,3 +47,11 @@
 **Thoughts**: I feel really great because I got to complete my two-month-old project! Ah satisfaction never felt so good :) I think that for my next project I'll start work on a mobile app centered on scoring scrabble words!
 
 **Link(s) to work**: [Public and Private Key Finder](https://github.com/KStupart/Public-And-Private-Key-Finder)
+
+### Day 7: August 17, 2018 
+
+**Today's Progress**: Public and Private Key Finder
+
+**Thoughts**: I feel really great because I got to complete my two-month-old project! Ah satisfaction never felt so good :) I think that for my next project I'll start work on a mobile app centered on scoring scrabble words!
+
+**Link(s) to work**: [Public and Private Key Finder](https://github.com/KStupart/Public-And-Private-Key-Finder)
