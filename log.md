@@ -50,8 +50,8 @@
 
 ### Day 7: August 17, 2018 
 
-**Today's Progress**: Public and Private Key Finder
+**Today's Progress**: Scrabble Word Scorer
 
-**Thoughts**: I feel really great because I got to complete my two-month-old project! Ah satisfaction never felt so good :) I think that for my next project I'll start work on a mobile app centered on scoring scrabble words!
+**Thoughts**: If I can pull this challenge off I'd feel really good. I have the image of the finished product in my head so I just have to put in the work to get there. I cannot even begin to describe how close I was to forfeiting the challende today! But I pushed on and I'm happy with what I uploaded to github even if it's currently a "hello world" screenshot and a description of the direction I want this project to go!
 
-**Link(s) to work**: [Public and Private Key Finder](https://github.com/KStupart/Public-And-Private-Key-Finder)
+**Link(s) to work**: [Scrabble Word Scorer](https://github.com/KStupart/ScrabbleWordScorer)
