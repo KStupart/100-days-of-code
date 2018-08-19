@@ -55,3 +55,11 @@
 **Thoughts**: If I can pull this challenge off I'd feel really good. I have the image of the finished product in my head so I just have to put in the work to get there. I cannot even begin to describe how close I was to forfeiting the challende today! But I pushed on and I'm happy with what I uploaded to github even if it's currently a "hello world" screenshot and a description of the direction I want this project to go!
 
 **Link(s) to work**: [Scrabble Word Scorer](https://github.com/KStupart/ScrabbleWordScorer)
+
+### Day 8: August 18, 2018 
+
+**Today's Progress**: Scrabble Word Scorer
+
+**Thoughts**: It took me an embarrassingly long time to figure out how to enable the drag and drop feature in Android Studio. On the bright side, I learned how to create a button and a text view and I also feel a little more confident with the Constraint Layout. Sometimes a day might feel unproductive but it's important to take each minute in stride and to keep pushing forward. The entire purpose of this challenge is to learn afterall and learning just takes time, one needs to research and understand before they can start applying. I can't wait to see what tomorrow bring!
+
+**Link(s) to work**: [Scrabble Word Scorer](https://github.com/KStupart/ScrabbleWordScorer)
